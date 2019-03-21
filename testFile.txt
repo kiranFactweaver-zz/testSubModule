@@ -1,0 +1,17 @@
+Test-File :
+
+	This is a test file I am creating just to see if two submodules in git can exist and work as independent repositories and can we work on both from different places.
+
+
+Test Cases to Check:
+
+	1. Make a change in submodule from main module tree chain and see if commit comes for both the repositories:
+		Analysis Result: 
+
+	2. Make a change in mainModule from sub Module tree chain and see if commit comes for both the repositories:
+		Analysis Result: 
+
+	3. Make common  requests like pull push and fetch to see if files are updated in both maina nd submodule.
+		Analysis Result:
+
+	
