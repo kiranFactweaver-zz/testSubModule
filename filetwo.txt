@@ -1,0 +1,8 @@
+
+File two:
+
+	File is created to test and varify the working of submodule fetch and upate from main branch.
+
+
+	scenario constrain...
+		1. submodule in upstream branch
