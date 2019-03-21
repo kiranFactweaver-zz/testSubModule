@@ -1,3 +1,5 @@
 This is the file three test for submodule and file is created in submodule.
 
-Making new changes at the submodule outside of duplicate folder`
+Making new changes at the submodule outside of duplicate folder
+
+and a new line is added to the file`
